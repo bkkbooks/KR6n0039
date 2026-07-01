@@ -1,0 +1,42 @@
+canonical_identifier: bkk:krp/KR6n0039/v1
+canonical_location: https://kanripo.org/bkk/KR6n0039/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 成唯識論演秘釋
+  identifiers:
+    alt_id:
+    - X50n0816
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X50/X50n0816.xml
+    old_id: X50n0816
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6n0039_000.yaml, hash: 'sha256:5f1979c4d94ab26a1cfdd5daa10bed2ee45aac39ff962bf3a3b2590cb97efd4a'}
+  - {seq: 1, filename: KR6n0039_001.yaml, hash: 'sha256:f35ef749ab363cf4bc3683b63f30b230e6a60a9f9b27dc59077fc9d425ae4447'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6n0039_001.markers.yaml, hash: 'sha256:0d3b96e82d2bf9fffe12680a006ff11d7bb52a7f391dd932b7b065a571f3ee9b'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6n0039_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 24731
+  label: 成唯識論演秘釋第一
+  type: juan
+  level: 1
+hash: sha256:d52e8c414035870df1e181b7ced68f194e88b74bbce0fe7acaa8e0a278fc8683
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

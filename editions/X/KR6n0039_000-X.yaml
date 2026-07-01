@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6n0039/x/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 成唯識論演秘釋
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X50/X50n0816.xml
+    old_id: X50n0816
+hash: sha256:5f1979c4d94ab26a1cfdd5daa10bed2ee45aac39ff962bf3a3b2590cb97efd4a
