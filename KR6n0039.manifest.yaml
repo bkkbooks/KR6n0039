@@ -22,9 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6n0039_000.yaml, hash: 'sha256:5f1979c4d94ab26a1cfdd5daa10bed2ee45aac39ff962bf3a3b2590cb97efd4a'}
-  - {seq: 1, filename: KR6n0039_001.yaml, hash: 'sha256:f35ef749ab363cf4bc3683b63f30b230e6a60a9f9b27dc59077fc9d425ae4447'}
+  - {seq: 1, filename: KR6n0039_001.yaml, hash: 'sha256:91cca1a67d0a7be0e71544c85ac49af7663d35bb534951f5ac94554fd2923a98'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6n0039_001.markers.yaml, hash: 'sha256:0d3b96e82d2bf9fffe12680a006ff11d7bb52a7f391dd932b7b065a571f3ee9b'}
+  - {seq: 0, role: markers, filename: assets/KR6n0039_000.markers.yaml, hash: 'sha256:6e737410cfc1a3c441a6a23cbba66d5aff96933d79dca1d1b14e69ce3b824a01'}
+  - {seq: 1, role: markers, filename: assets/KR6n0039_001.markers.yaml, hash: 'sha256:6e5c092aab75e93596e49691050ea4904071119216234da616afe6f419b46d63'}
 table_of_contents:
 - ref:
     seq: 1
@@ -36,7 +37,4 @@ table_of_contents:
   label: 成唯識論演秘釋第一
   type: juan
   level: 1
-hash: sha256:d52e8c414035870df1e181b7ced68f194e88b74bbce0fe7acaa8e0a278fc8683
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:7ecb639386bbedd1cdc74fb95beb8702e559716f2918b89295b18083d053500b
